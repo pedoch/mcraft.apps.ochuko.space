@@ -35,8 +35,17 @@ export const NoMobile = () => {
         e.stopPropagation();
       }}
     >
-      <h1>Sorry, this app is not available on mobile devices.</h1>
-      <p>Please visit this page on a desktop browser.</p>
+      <h1>No phones allowed buddy.</h1>
+      <p>
+        Hey there, non-coding wizard! No pocket-sized crystal balls allowed in
+        this mystical domain. I might be the grand maestro of coding spells, but
+        touch controls are a bit too minuscule for my enchanting powers. So,
+        dear apprentice, skip on over to your laptop, desktop, or any other
+        desk-bound contraption you've got. Let's not squint at those tiny
+        screens; we've got a magical web app to unveil on a canvas befitting its
+        grandeur. I'll be here, stirring my code cauldron and awaiting your
+        arrival to the desktop realm. May the pixels be ever in your favour!
+      </p>
     </div>
   );
 };
